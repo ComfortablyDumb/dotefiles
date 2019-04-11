@@ -103,7 +103,6 @@ alias cdc="cd && clr"
 alias update="yaourt -Syua --noconfirm"
 alias lo="xrdb -l ~/.Xdefaults"
 bindkey -v
-export PATH="$HOME/.dynamic-colors/bin:$PATH"
 export EDITOR="vim"
 
 
